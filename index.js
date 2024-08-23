@@ -1,5 +1,4 @@
 const Email = document.getElementById("Email");
-Email.innerHTML = "Email";
 const Password = document.getElementById("Password");
 const phonenumber = document.getElementById("Number");
 const button = document.getElementById("button");
